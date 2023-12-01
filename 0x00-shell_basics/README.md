@@ -1,1 +1,1 @@
-script details
+shell basic commands
